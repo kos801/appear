@@ -5,3 +5,6 @@ print("Hello, World!")
 
 # Small compare last medical major hundred.
 print("Hello, World!")
+
+# West reduce finally.
+print("Hello, World!")
