@@ -5,3 +5,6 @@ console.log("Hello, World!");
 
 # Hundred set foot white.
 console.log("Hello, World!");
+
+# Nice capital pretty.
+console.log("Hello, World!");
