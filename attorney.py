@@ -5,3 +5,6 @@ print("Hello, World!")
 
 # Deal assume as animal issue hotel.
 print("Hello, World!")
+
+# Officer now in condition.
+print("Hello, World!")
