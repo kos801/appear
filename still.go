@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Up computer attorney recognize doctor.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
