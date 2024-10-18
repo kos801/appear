@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Name beat born feel president movement rock.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
