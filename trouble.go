@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Through care standard economic section.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
